@@ -19,7 +19,7 @@ The result of this check can be overdriven by a whitelist-entry in the blocklist
 ### Muting Matrix
 Here you see a matrix documenting the behavior of the blocking-lists and configuration of regular expression (RE)-check:
 
-![Muting-Matrix](img/Muting-Matrix.png "Muting-Matrix")
+![Muting-Matrix](https://github.com/snailwalk11/pYSFReflector/img/Muting-Matrix.png "Muting-Matrix")
 
 Within this table following descriptions for the cell-values should help understanding the table:
 * X: Any value
